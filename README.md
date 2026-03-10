@@ -1,2 +1,0 @@
-# announcement
-cat fresh food
